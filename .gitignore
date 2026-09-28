@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+coverage/
+test-results/
+.DS_Store
+*.pem
+*.key
+shop.txt
